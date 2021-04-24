@@ -23,17 +23,14 @@
 
 public class DecimalComparator {
 
-    public static void areEqualByThreeDecimalPlaces(double num1, double num2){
-        boolean equal;
+    public static boolean areEqualByThreeDecimalPlaces(double num1, double num2){
 
-        num1 = num1 - (long) num1;
-
-        num2 = num2 - (long) num2;
-
+        num1 = (int) (num1 * 1000);
+        num2 = (int) (num2 * 1000);
 
         if (num1 == num2){
-            System.out.println(true);
-        } else System.out.println(false);
+            return true;
+        } else return false;
 
     }
 }
