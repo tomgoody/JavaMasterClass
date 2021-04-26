@@ -1,3 +1,5 @@
+package Section4_Expressions_Statements;
+
 public class MoreMethodPractice {
 
     public static void smallerNumber(int num1, int num2, int num3){

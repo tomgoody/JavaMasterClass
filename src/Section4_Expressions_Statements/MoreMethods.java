@@ -1,3 +1,5 @@
+package Section4_Expressions_Statements;
+
 // The method with the return statement is what must be used first and be assigned to a variable.
 // That assigned variable is then used in the second method to inject the answer from the first method
 public class MoreMethods {

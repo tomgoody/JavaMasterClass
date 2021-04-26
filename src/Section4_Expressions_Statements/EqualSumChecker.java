@@ -1,3 +1,5 @@
+package Section4_Expressions_Statements;
+
 public class EqualSumChecker {
 
     public static boolean hasEqualSum(int num1, int num2, int num3) {

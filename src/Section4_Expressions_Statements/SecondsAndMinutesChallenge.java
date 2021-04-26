@@ -1,3 +1,5 @@
+package Section4_Expressions_Statements;
+
 public class SecondsAndMinutesChallenge {
 
     private static final String INVALID_VALUE_MESSAGE = "Invalid value";
