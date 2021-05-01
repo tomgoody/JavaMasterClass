@@ -34,7 +34,7 @@ public class Main {
         bank.setCustomerName("Tom");
         bank.setAccountNumber(123456);
         bank.setCustomerEmail("tgoody@hotmail.com");
-        bank.setCustomerPhone("303.947.9268");
+        bank.setCustomerPhone("303.947.1111");
         bank.setBalance(100);
         System.out.println(bank.getCustomerName());
         System.out.println(bank.getCustomerEmail());
