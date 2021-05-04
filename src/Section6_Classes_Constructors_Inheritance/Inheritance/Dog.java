@@ -1,6 +1,5 @@
 package Section6_Classes_Constructors_Inheritance.Inheritance;
 
-import java.sql.SQLOutput;
 
 public class Dog extends Animal{
 

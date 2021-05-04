@@ -11,7 +11,7 @@ public class Car extends Vehicle{
         super(steering, changingGear, moving);
         this.doors = doors;
         this.gasTankSize = gasTankSize;
-        this.mpg = mpg;
+        this.mpg = mpg; 
         Brand = brand;
         Model = model;
     }
